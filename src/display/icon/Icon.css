@@ -1,0 +1,11 @@
+.icon {
+  padding-top: 20px;
+}
+.icon a {
+  color: white;
+  margin: 18px;
+  padding-top: 20px;
+}
+.icon a:hover {
+  color: red;
+}
