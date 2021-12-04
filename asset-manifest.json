@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/zklovekissxx/ReactJsLetter/static/css/main.81445078.chunk.css",
+    "main.js": "/zklovekissxx/ReactJsLetter/static/js/main.7b315c17.chunk.js",
+    "main.js.map": "/zklovekissxx/ReactJsLetter/static/js/main.7b315c17.chunk.js.map",
+    "runtime-main.js": "/zklovekissxx/ReactJsLetter/static/js/runtime-main.46b11ef4.js",
+    "runtime-main.js.map": "/zklovekissxx/ReactJsLetter/static/js/runtime-main.46b11ef4.js.map",
+    "static/js/2.b83351c2.chunk.js": "/zklovekissxx/ReactJsLetter/static/js/2.b83351c2.chunk.js",
+    "static/js/2.b83351c2.chunk.js.map": "/zklovekissxx/ReactJsLetter/static/js/2.b83351c2.chunk.js.map",
+    "static/js/3.3fa58b12.chunk.js": "/zklovekissxx/ReactJsLetter/static/js/3.3fa58b12.chunk.js",
+    "static/js/3.3fa58b12.chunk.js.map": "/zklovekissxx/ReactJsLetter/static/js/3.3fa58b12.chunk.js.map",
+    "index.html": "/zklovekissxx/ReactJsLetter/index.html",
+    "static/css/main.81445078.chunk.css.map": "/zklovekissxx/ReactJsLetter/static/css/main.81445078.chunk.css.map",
+    "static/js/2.b83351c2.chunk.js.LICENSE.txt": "/zklovekissxx/ReactJsLetter/static/js/2.b83351c2.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/zklovekissxx/ReactJsLetter/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.46b11ef4.js",
+    "static/js/2.b83351c2.chunk.js",
+    "static/css/main.81445078.chunk.css",
+    "static/js/main.7b315c17.chunk.js"
+  ]
+}
