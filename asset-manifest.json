@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/ReactJsLetter/static/css/main.81445078.chunk.css",
-    "main.js": "/ReactJsLetter/static/js/main.7b315c17.chunk.js",
-    "main.js.map": "/ReactJsLetter/static/js/main.7b315c17.chunk.js.map",
+    "main.css": "/ReactJsLetter/static/css/main.d1b3d89d.chunk.css",
+    "main.js": "/ReactJsLetter/static/js/main.bb3e6549.chunk.js",
+    "main.js.map": "/ReactJsLetter/static/js/main.bb3e6549.chunk.js.map",
     "runtime-main.js": "/ReactJsLetter/static/js/runtime-main.b260b894.js",
     "runtime-main.js.map": "/ReactJsLetter/static/js/runtime-main.b260b894.js.map",
     "static/js/2.b83351c2.chunk.js": "/ReactJsLetter/static/js/2.b83351c2.chunk.js",
@@ -10,14 +10,14 @@
     "static/js/3.3fa58b12.chunk.js": "/ReactJsLetter/static/js/3.3fa58b12.chunk.js",
     "static/js/3.3fa58b12.chunk.js.map": "/ReactJsLetter/static/js/3.3fa58b12.chunk.js.map",
     "index.html": "/ReactJsLetter/index.html",
-    "static/css/main.81445078.chunk.css.map": "/ReactJsLetter/static/css/main.81445078.chunk.css.map",
+    "static/css/main.d1b3d89d.chunk.css.map": "/ReactJsLetter/static/css/main.d1b3d89d.chunk.css.map",
     "static/js/2.b83351c2.chunk.js.LICENSE.txt": "/ReactJsLetter/static/js/2.b83351c2.chunk.js.LICENSE.txt",
     "static/media/logo.6ce24c58.svg": "/ReactJsLetter/static/media/logo.6ce24c58.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.b260b894.js",
     "static/js/2.b83351c2.chunk.js",
-    "static/css/main.81445078.chunk.css",
-    "static/js/main.7b315c17.chunk.js"
+    "static/css/main.d1b3d89d.chunk.css",
+    "static/js/main.bb3e6549.chunk.js"
   ]
 }
