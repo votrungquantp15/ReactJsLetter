@@ -13,7 +13,7 @@ const Icon = (props) => {
       <a href="https://www.youtube.com/watch?v=wHTaG9-gj3Q">
         <box-icon name="youtube" type="logo"></box-icon>
       </a>
-      <a href="https://github.com/zklovekissxx">
+      <a href="https://github.com/votrungquantp15">
         <box-icon name="github" type="logo"></box-icon>
       </a>
     </div>
